@@ -1,5 +1,5 @@
 # Dashboard Accomplishments
-1. Created a comprehensive dashboard with separate pages for each channel 
+1. Created a comprehensive dashboard with separate pages for each channel using __Power BI__ 
 2. Calculated avg ROI, total clicks, and impressions
 3. Compared engagement scores across channels 
 4. Analyzed distributions of targeted demographics 
