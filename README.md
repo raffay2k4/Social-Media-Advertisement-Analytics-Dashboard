@@ -6,3 +6,10 @@
 5. Examined acquisition costs by language and conversion rates by age
 
 The dashboard also features filters for campaigns by month, customer segment, company, campaign goal, and location, offering deep insights to optimize future strategies.
+
+## Skills
+- Power Bi
+- Data Analytics
+- Data Visualization
+- Data Cleaning
+- Data Modeling
